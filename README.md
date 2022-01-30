@@ -1,4 +1,4 @@
-# [Hack Reactor](http://www.hackreactor.com): JavaScript VI Workshop
+# [Hack Reactor](http://www.hackreactor.com): JavaScript VII Workshop
 
 ## Overview
 
