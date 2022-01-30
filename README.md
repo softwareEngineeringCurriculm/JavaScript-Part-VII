@@ -4,7 +4,7 @@
 
 #### Scheduled Length: 3 Hours
 
-Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript 401 workshop. JavaScript Part VI is the seventh and final lesson in our free, seven-part Introductory JavaScript Series. We're excited to have you.
+Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript Part VII workshop. JavaScript Part VI is the seventh and final lesson in our free, seven-part Introductory JavaScript Series. We're excited to have you.
 
 **EXPECTATION:** You will be expected to fully engage during lecture periods. Accordingly, please wait until the designated times during this live workshop to explore the exercises. You will be given 10-15 minutes per section, so please pace yourself accordingly.
 
