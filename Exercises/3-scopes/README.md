@@ -1,6 +1,6 @@
 # Part III: Scopes
 
-*Note: Before getting started on these exercises, please be certain that you've read through the root [README.md](../README.md) file in this repository.*
+*Note: Before getting started on these exercises, please be certain that you've read through the root [README.md](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-VII/blob/main/README.md) file in this repository.*
 
 To complete these exercises, you will need to download this repo and open this particular folder in a code editor.
 
