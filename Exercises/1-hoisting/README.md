@@ -1,6 +1,6 @@
 # Part I: Hoisting
 
-*Note: Before getting started on these exercises, please be certain that you've read through the root [README.md](../README.md) file in this repository.*
+*Note: Before getting started on these exercises, please be certain that you've read through the root [README.md](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-VII/blob/main/README.md) file in this repository.*
 
 In order to complete these exercises, open [repl.it](https://repl.it/), choose JavaScript, and then write your code in the left-hand panel. You can run your code using the "Run" button.
 
