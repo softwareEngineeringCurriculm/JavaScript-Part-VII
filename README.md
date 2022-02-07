@@ -21,9 +21,9 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- Part I: [Hoisting](./1-hoisting)
-- Part II: [Higher-Order Functions](./2-higher-order-functions)
-- Part III: [Scopes](./3-scopes)
+- Part I: [Hoisting](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-VII/tree/main/Exercises/1-hoisting)
+- Part II: [Higher-Order Functions](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-VII/tree/main/Exercises/2-higher-order-functions)
+- Part III: [Scopes](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-VII/tree/main/Exercises/3-scopes)
 
 ## Thinking about JavaScript
 
